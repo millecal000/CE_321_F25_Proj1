@@ -1,6 +1,6 @@
-PartialCredit::
-Q1::
-Q2::
+PartialCredit:: F
+Q1:: T
+Q2:: 29000000
 Q3::
 Q4::
 Q5::
