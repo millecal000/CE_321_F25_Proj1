@@ -1,10 +1,10 @@
-PartialCredit::
-Q1::
-Q2::
-Q3::
-Q4::
-Q5::
-Q6::
+PartialCredit:: F
+Q1:: T
+Q2:: 6
+Q3:: 0
+Q4:: 10
+Q5:: 5
+Q6:: 10
 Q7::
 Q8::
 Q9::
